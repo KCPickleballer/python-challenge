@@ -1,7 +1,7 @@
 import csv
 import os
 
-csvpath = os.path.join('..', 'election_data.csv')
+csvpath = os.path.join('.', 'election_data.csv')
 
 pollRec = []
 pollDict = {}
